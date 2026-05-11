@@ -123,6 +123,13 @@ ImprovementIcons/Redlop
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Highland Power Station
+  rotate: false
+  xy: 212, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Upside-Down
   rotate: false
   xy: 1840, 298
@@ -149,6 +156,13 @@ TileSets/FantasyHex/Tiles/Redlop
   xy: 404, 4
   size: 32, 29
   orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Highland Power Station
+  rotate: false
+  xy: 1948, 293
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Upside Down
