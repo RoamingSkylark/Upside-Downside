@@ -385,7 +385,7 @@
 		"strength": 50,
 		"cost": 320,
 		"requiredTech": "Replaceable Parts",
-		"obsoleteTech": "Plastics",
+		"obsoleteTech": "Electronics",
 		"upgradesTo": "Infantry",
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "shot"
