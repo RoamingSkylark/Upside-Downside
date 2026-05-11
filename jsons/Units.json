@@ -9,7 +9,7 @@
 		"cost": 20,
         "obsoleteTech": "Metal Casting",
 		"promotions": ["[Roirraw] ability", "Woodsman"],
-		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"], ["[+1] Sight"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
 	},
