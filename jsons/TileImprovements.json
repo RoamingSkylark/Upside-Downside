@@ -34,14 +34,15 @@
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
 	},
-  "name": "Highland Power Station",
-  "uniqueTo": "Upside-Down",
-  "terrainsCanBeBuiltOn": ["Mountain"],
-  "production": 3,
-  "turnsToBuild": 7,
-  "techRequired": "Electricity",
-  "uniques": ["[+1 Culture] for each adjacent [Mountain]", "Pillaging this improvement yields approximately [+25 Gold]"],
-  "civilopediaText": [ {"text": "In 1911, Nepal opened its first hydroelectric power station – only shortly after hydropower had appeared in the United States and India. The country seems suited for it, with dramatic elevation differences and plentiful water streaming down the Himalayan slopes, although since this first project new ones have been slow to appear."}, {"separator": true}],
- "shortcutKey": "P"
+	{
+        "name": "Highland Power Station",
+        "uniqueTo": "Upside-Down",
+        "terrainsCanBeBuiltOn": ["Mountain"],
+        "production": 3,
+        "turnsToBuild": 7,
+        "techRequired": "Electricity",
+        "uniques": ["[+1 Culture] for each adjacent [Mountain]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "civilopediaText": [ {"text": "In 1911, Nepal opened its first hydroelectric power station – only shortly after hydropower had appeared in the United States and India. The country seems suited for it, with dramatic elevation differences and plentiful water streaming down the Himalayan slopes, although since this first project new ones have been slow to appear."}, {"separator": true}],
+        "shortcutKey": "P"
 	}
 ]
