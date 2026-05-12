@@ -86,5 +86,9 @@
 	{
 		"name": "[Reetavirp] ability",
 		"uniques": ["May capture killed [Water] units"]
-	}
+	},
+	{
+        "name": "Trained Sherpas",
+        "uniques": ["Can pass through impassable tiles","[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
+    }
 ]
